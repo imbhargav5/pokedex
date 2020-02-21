@@ -19,7 +19,6 @@ pokemonNames.forEach((pokemonName, index) => {
   pokemonNameIndexMap[pokemonName] = index + 1
 })
 
-console.log({ pokemonNameIndexMap })
 
 function Pokedex() {
 
